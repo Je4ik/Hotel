@@ -1,4 +1,6 @@
 # Hotel
 
 
-Changed from aleks machine - change 1
+Changed from aleks machine 
+
+Next day changes
